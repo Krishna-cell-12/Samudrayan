@@ -5,6 +5,8 @@
 Unveiling the ocean's hidden biodiversity through an AI-powered environmental DNA (eDNA) analysis pipeline for discovering novel marine species in the deep ocean.
 
 ---
+<img width="1885" height="917" alt="image" src="https://github.com/user-attachments/assets/18af84db-ee8d-41dc-b37b-8161ffdf5995" />
+
 
 ## Overview
 
